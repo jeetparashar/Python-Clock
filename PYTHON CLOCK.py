@@ -1,3 +1,5 @@
+#Link to download clock font: https://www.dafont.com/theme.php?cat=303&psize=s&text=12%3A07
+
 from tkinter import *
 from tkinter.ttk import *
 
